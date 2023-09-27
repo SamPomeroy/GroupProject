@@ -1,4 +1,13 @@
 body {
-    margin: 0;
-    background-color: hsl(55, 50%, 50%);
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/tapioca-lead-1658945379.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*");
+    object-fit: fill;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+
